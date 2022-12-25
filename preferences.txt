@@ -1,0 +1,4 @@
+favorite_movie - Titanik
+favorite_TVShow - Game of Thrones
+favorite_food - sushi
+favorite_season - summer
